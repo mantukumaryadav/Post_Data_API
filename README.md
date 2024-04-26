@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+## This project is Get the post data from the API by using React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- Show 6 cards at once and should display bottom navigation to show the next 6 cards or previous 6 cards.
+
+- If we click on the red cross icon, it should remove that card from the current view & show 6 cards again (5 current cards & 1 new card shifted from next page).
+
+- If we directly click on a specific page number, it should display the respective 6 cards in the view.
+- Application should display Loading... for 5 sec on startup then it should display cards.
+
+## Image
+![Screenshot (10)](https://github.com/mantukumaryadav/Post_Data_API/assets/65592276/d52e6734-7b5e-4a18-ac67-5baa442f00de)
+
+
 
 ## Available Scripts
 
